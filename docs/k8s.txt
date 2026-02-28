@@ -1,1 +1,1 @@
-kubernetes is a container platform used to manage containers at scale.
+Kubernetes is a container platform used to manage containers at scale.
